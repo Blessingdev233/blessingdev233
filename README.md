@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Blessingdev233&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 ### Hi there 👋, my name is Blessing Tyron
 
 Passion driven tech addict, open to learn and explore new technologies on this planet.
