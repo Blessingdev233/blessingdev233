@@ -23,8 +23,6 @@ Skills:  JS / HTML / CSS
 - 🌱 I’m currently learning C /Python /React JS
 - 🤔 I’m looking for help with software engineering 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Blessingdev233)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/BlessingTetteh )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tyronshotit/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/xlense)  
 
@@ -32,4 +30,6 @@ Skills:  JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Blessingdev233)  
 
- ![Profile views](https://gpvc.arturio.dev/Blessingdev233) 
+![Profile views](https://gpvc.arturio.dev/Blessingdev233) 
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
