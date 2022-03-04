@@ -19,7 +19,7 @@ Passion driven tech addict, open to learn and explore new technologies on this p
 Skills:  JS / HTML / CSS
 
 - 🔭 I’m currently working on Software engineering(Front-end) 
-- 🌱 I’m currently learning https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png /https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png /https://pngset.com/images/logo-react-js-logo-svg-symbol-trademark-grenade-bomb-transparent-png-2691562.png 
+- 🌱 I’m currently learning ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png) /![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png) /![](https://pngset.com/images/logo-react-js-logo-svg-symbol-trademark-grenade-bomb-transparent-png-2691562.png) 
 - 🤔 I’m looking for help with software engineering 
 
 
