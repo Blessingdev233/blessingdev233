@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&section=footer&text=Blessingdev233%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world%20of%20endless%20learning%20adventure!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Blessingdev233%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world%20of%20endless%20learning%20adventure!&descAlignY=51&descAlign=62)
 ### Hi there 👋, my name is Blessing Tyron
 
 Passion driven tech addict, open to learn and explore new technologies on this planet.
@@ -22,6 +22,8 @@ Skills:  JS / HTML / CSS
 - 🔭 I’m currently working on Software engineering(Front-end) 
 - 🌱 I’m currently learning C /Python /React JS
 - 🤔 I’m looking for help with software engineering 
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Blessingdev233)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/BlessingTetteh )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tyronshotit/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/xlense)  
