@@ -28,7 +28,7 @@ Skills:  JS / HTML / CSS
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Blessingdev233&theme=radical)](https://github.com/Blessingdev233/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Blessingdev233)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Blessingdev233&theme=react)  
 
 ![Profile views](https://gpvc.arturio.dev/Blessingdev233) 
 
