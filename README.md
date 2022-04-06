@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Passion driven tech addict, open to learn and explore new technologies on this planet.
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20The%20more%20you%20know;The%20more%20you%20realize;you%20don't%20know&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <img align="right" alt="GIF" src="./programmer.gif" width="350" />
