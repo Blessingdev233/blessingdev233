@@ -17,7 +17,15 @@ Here are some ideas to get you started:
 
 Passion driven tech addict, open to learn and explore new technologies on this planet.
 
-Skills:  JS / HTML / CSS
+<img align="right" alt="GIF" src="./programmer.gif" width="350" />
+
+##### Web Development
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"/></code>
+<code><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code>
+
 
 - 🔭 I’m currently working on Software engineering(Front-end) 
 - 🌱 I’m currently learning C /Python /React JS
