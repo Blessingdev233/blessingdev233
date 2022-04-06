@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 Passion driven tech addict, open to learn and explore new technologies on this planet.
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+</p>
 
 <img align="right" alt="GIF" src="./programmer.gif" width="350" />
+
+## ️ Languages and tools
 
 
 ##### Web Development
