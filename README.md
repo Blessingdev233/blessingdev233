@@ -48,8 +48,14 @@ Passion driven tech addict, open to learn and explore new technologies on this p
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Blessingdev233&theme=radical)](https://github.com/Blessingdev233/github-readme-stats)
 </details>
 
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Blessingdev233&theme=react)  
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
 
+  <br />
+  
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Blessingdev233&theme=react)  
+</details>
+  
 ![Profile views](https://gpvc.arturio.dev/Blessingdev233) 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
