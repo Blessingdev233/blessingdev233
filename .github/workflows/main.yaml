@@ -3,7 +3,7 @@ name: README build
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: '0 */3 * * *'
 
@@ -12,14 +12,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to Main branch
-        uses: actions/checkout@v1
+      - name: Checkout current repository to Master branch
+        uses: actions/checkout@v3
       - name: setup node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
-          node-version: '13.x'
+          node-version: 18
       - name: cache
-        uses: actions/cache@v1
+        uses: actions/cache@v3
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
