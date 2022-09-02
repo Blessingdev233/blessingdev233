@@ -5,29 +5,49 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '30 1 1,15 * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to Master branch
+      - name: Checkout
         uses: actions/checkout@v3
-      - name: setup node
+
+      - name: Install Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
-      - name: cache
-        uses: actions/cache@v3
+
+      - uses: pnpm/action-setup@v2.0.1
+        name: Install pnpm
+        id: pnpm-install
         with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+          version: 7
+          run_install: false
+
+      - name: Get pnpm store directory
+        id: pnpm-cache
+        run: |
+          echo "::set-output name=pnpm_cache_dir::$(pnpm store path)"
+      - uses: actions/cache@v3
+        name: Setup pnpm cache
+        with:
+          path: ${{ steps.pnpm-cache.outputs.pnpm_cache_dir }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
       - name: Install dependencies
-        run: npm install
+        run: pnpm install
+
       - name: Generate README file
-        run: node index.js
-      - name: Commit and Push new README.md to the repository
+        run: pnpm build
+        env:
+          STEAM_KEY: ${{secrets.STEAM_KEY}}
+          STEAM_ID: ${{secrets.STEAM_ID}}
+
+      - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
