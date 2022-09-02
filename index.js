@@ -6,6 +6,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';/**
   * the data to be provided to Mustache
   * Notice the "name" and "date" property.
 */
+
 let DATA = {
   name: 'Blessing Tyron',
   date: new Date().toLocaleDateString('en-GB', {
