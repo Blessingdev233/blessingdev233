@@ -1,23 +1,27 @@
 {
-  "name": "mustache",
+  "name": "mornir",
   "version": "1.0.0",
-  "description": "![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Blessingdev233%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world%20of%20endless%20learning%20adventure!&descAlignY=53&descAlign=62) ### Hi, there 👋, my name is `Blessing Tyron` ### Today is Friday, 2 September, 10:25 UTC",
+  "description": "I'm a [full-stack front-end developer](https://full-stack.netlify.app/) from Zurich, Switzerland.   我是来自瑞士苏黎世的一名[全栈前端](https://full-stack.netlify.app/)开发者。",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Blessingdev233/blessingdev233.git"
+    "url": "git+https://github.com/mornir/mornir.git"
   },
-  "author": "Blessingdev233",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
+  "type": "module",
   "bugs": {
-    "url": "https://github.com/Blessingdev233/blessingdev233/issues"
+    "url": "https://github.com/mornir/mornir/issues"
   },
-  "homepage": "https://github.com/Blessingdev233/blessingdev233#readme",
+  "homepage": "https://github.com/mornir/mornir#readme",
   "dependencies": {
-    "fixed": "^0.3.1",
-    "mustache": "^4.2.0"
+    "dotenv": "^16.0.2",
+    "got": "^12.1.0",
+    "mustache": "^4.0.1"
   }
 }
