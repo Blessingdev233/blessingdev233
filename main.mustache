@@ -30,6 +30,29 @@ Passion driven tech addict, open to learn and explore new technologies on this p
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/BlessingTetteh)
    
 
+<p>
+  {{#techs}}
+ <a href="{{website}}"><img alt="{{logo}}"
+ src="https://img.shields.io/badge/{{name}}-{{badgeColor}}?style=for-the-badge&logoColor=white&logo={{logo}}" /></a>
+  {{/techs}}
+</p> 
+
+
+<h2>📝 My latest blog posts</h2>
+<ul>
+  {{#articles}}
+    <li> <a href="{{canonical_url}}"><b>{{title}}</b></a><br/><i>{{description}}</i></li>
+  {{/articles}}
+</ul>
+
+
+
+------------
+<p align="center">
+  The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
+  </br>Last refresh: {{lastRefresh}} </br>
+</p>
+
 ### My GitHub Stats:
 
 <details>	
