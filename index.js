@@ -52,7 +52,41 @@ const techs = [
 async function fetchArticles() {
   return got('https://dev.to/api/articles?username=mornir&per_page=5').json()
 }
+let DATA = {
+  name: 'Thomas',
+  date: new Date().toLocaleDateString('en-GB', {
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    hour: 'numeric',
+    minute: 'numeric',
+    timeZoneName: 'short',
+    timeZone: 'Europe/Stockholm',
+  }),
+};/**
+  * A - We open 'main.mustache'
+  * B - We ask Mustache to render our file with the data
+  * C - We create a README.md file with the generated output
+  */
 
+async function generateReadMe() {
+  try {
+    const articles = await (fetchArticles())
+
+    const view = {
+      articles,
+      techs,
+      lastRefresh,
+    }
+    const content = readFileSync(MUSTACHE_MAIN_DIR)
+    const output = Mustache.render(content.toString(), view)
+    writeFileSync('README.md', output)
+  } catch (error) {
+    console.error(error)
+  }
+}
+
+generateReadMe();
 
 
 
