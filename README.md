@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Blessingdev233%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world%20of%20endless%20learning%20adventure!&descAlignY=53&descAlign=62)
 ### Hi, there 👋, my name is `Blessing Tyron`
-### Today is Saturday, 3 September, 08:49 UTC
+### Today is Saturday, 3 September, 08:57 UTC
 
 Passion driven tech addict, open to learn and explore new technologies on this planet.
 
@@ -29,22 +29,6 @@ Passion driven tech addict, open to learn and explore new technologies on this p
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/camodeli)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/BlessingTetteh)
    
-
-<p>
-</p> 
-
-
-<h2>📝 My latest blog posts</h2>
-<ul>
-</ul>
-
-
-
-------------
-<p align="center">
-  The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
-  </br>Last refresh:  </br>
-</p>
 
 ### My GitHub Stats:
 
