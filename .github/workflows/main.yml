@@ -3,19 +3,19 @@ name: README build
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 8 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to Master branch
-        uses: actions/checkout@v1
-      - name: Setup NodeJs 
-        uses: actions/setup-node@v1
+      - name: Checkout 
+        uses: actions/checkout@v3
+      - name: Setup NodeJs environment
+        uses: actions/setup-node@v3.4.1
         with:
           node-version: 18
       - name: Cache dependencies and build outputs to improve workflow execution time.
