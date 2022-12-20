@@ -1,13 +1,12 @@
-echo "Enter your message"
-read message
-git add .
-git commit -m"${message}"
+node index.js
+git add README.md
+git commit -m"Auto update"
 if [ -n "$(git status - porcelain)" ];
 then
- echo "IT IS CLEAN"
-else
  git status
  echo "Pushing data to remote server!!!"
- git push 
+ git push
+else
+ echo "IT IS CLEAN"
 fi
 
