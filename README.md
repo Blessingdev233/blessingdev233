@@ -31,14 +31,12 @@ Passion driven tech addict, open to learn and explore new technologies on this p
    
 
 ### My GitHub Stats:
-
-<details>	
+	
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />  
   
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Blessingdev233&theme=radical)](https://github.com/Blessingdev233/github-readme-stats)
-</details>
 	
   <summary><b>☄️ Github Streaks</b></summary>
 
