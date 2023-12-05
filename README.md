@@ -44,6 +44,7 @@ Passion driven tech addict, open to learn and explore new technologies on this p
   
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Blessingdev233&theme=react)  
   
-[![Image of https://github.com/Blessingdev233/my-profile-view-counter](https://github.com/Blessingdev233/my-profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/Blessingdev233/my-profile-view-counter)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Blessingdev233&label=Profile%20views&color=0e75b6&style=flat" alt="Blessingdev233" /> </p>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
