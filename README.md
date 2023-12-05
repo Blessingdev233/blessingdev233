@@ -44,6 +44,6 @@ Passion driven tech addict, open to learn and explore new technologies on this p
   
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Blessingdev233&theme=react)  
   
-[![Image of https://github.com/gayanvoice/my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter)
+[![Image of https://github.com/gayanvoice/my-profile-view-counter](https://github.com/Blessingdev233/my-profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/Blessingdev233/my-profile-view-counter)
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
