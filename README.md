@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Blessingdev233%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world%20of%20endless%20learning%20adventure!&descAlignY=53&descAlign=62)
 ### Hi, there 👋, my name is `Blessing Tyron`
-### Last Seen :eyes: Sunday, August 6, 6:05 AM UTC
+### Last Seen :eyes: Wednesday, 6 December at 09:12 UTC
 
 Passion driven tech addict, open to learn and explore new technologies on this planet.
 
@@ -24,19 +24,21 @@ Passion driven tech addict, open to learn and explore new technologies on this p
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"/></code> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/blessing-lartey-2049a1233)
-[![X Badge](https://img.shields.io/badge/-X-00acee?style=flat-square&logo=X&logoColor=white)](https://X.com/xlense)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/xlense)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/tyronshotit/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/camodeli)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/BlessingTetteh)
    
 
 ### My GitHub Stats:
-	
+
+<details>	
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />  
   
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Blessingdev233&theme=radical)](https://github.com/Blessingdev233/github-readme-stats)
+</details>
 	
   <summary><b>☄️ Github Streaks</b></summary>
 
@@ -44,7 +46,6 @@ Passion driven tech addict, open to learn and explore new technologies on this p
   
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Blessingdev233&theme=react)  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Blessingdev233&label=Profile%20views&color=0e75b6&style=flat" alt="Blessingdev233" /> </p>
-
+![Profile views](https://gpvc.arturio.dev/Blessingdev233) 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
